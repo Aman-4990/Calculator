@@ -1,0 +1,22 @@
+.calculator{
+    border: 1px solid rgba(10, 10, 10, 0.808);
+    width: 200px;
+    border-radius: 5px;
+   margin-left: 40%;
+   margin-top: 5%;
+}
+
+
+
+.buttonsContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.button{
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+}
